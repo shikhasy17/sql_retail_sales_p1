@@ -1,6 +1,6 @@
 # Retail Sales Intelligence | SQL + Analytics Project
 # Executive Summary
-Built a SQL analytics project to transform raw retail transaction data into actionable business insights.
+Built SQL analytics project to transform raw retail transaction data into actionable business insights.
 Identified revenue drivers, customer segments, and time-based sales trends to support data-driven decision-making.
 ________________________________________
 # Business Objectives
