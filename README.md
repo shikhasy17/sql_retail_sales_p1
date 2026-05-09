@@ -50,7 +50,7 @@ ________________________________________
 •	Data Cleaning Queries
 •	Business KPI calculations
 
-# Dashboard Preview
+# Dashboard
 
 
  
