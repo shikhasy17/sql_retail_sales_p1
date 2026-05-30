@@ -78,5 +78,4 @@ Focused on solving business problems using data.
 ________________________________________
 ## Connect
 •	LinkedIn: https://www.linkedin.com/in/shika-yadav-25988b26a/
-•	GitHub: https://github.com/shikhasy17
 ________________________________________
