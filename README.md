@@ -1,4 +1,4 @@
-# Retail Sales | SQL + Analytics Project
+# Retail Sales Performance & Customer Behavior Analytics
 ## Executive Summary
 Built SQL analytics project to transform raw retail transaction data into actionable business insights.
 1. Identified revenue drivers,
